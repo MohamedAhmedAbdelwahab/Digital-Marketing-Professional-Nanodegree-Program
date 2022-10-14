@@ -1,10 +1,10 @@
 # Digital-Marketing-Professional-Nanodegree-Program
-Market your Content
+## Market your Content
 In this project we want you to practice producing and marketing content about a subject you know very well – yourself!
 In this project, all the focus is on you.
 Content marketing is not only a powerful tool to increase awareness for a brand or product, 
 but also an effective way for you to build your own ‘personal brand’ as a Digital Marketer.
-Crafting an Email Campaign
+## Crafting an Email Campaign
 Throughout your projects, we have focused on the early parts of the customer 
 acquisition funnel such as building awareness and gathering potential leads.
 
